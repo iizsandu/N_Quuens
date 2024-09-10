@@ -18,7 +18,7 @@ The problem can be solved using recursion and backtracking techniques. Here’s 
 
 ## Code
 
-The implementation of N-Queens problem can be found in Pyhton language in 
+The implementation of N-Queens problem can be found in Pyhton language in https://github.com/iizsandu/N_Quuens/blob/main/queen.py
 
 ## Contributing
 
