@@ -15,3 +15,11 @@ The problem can be solved using recursion and backtracking techniques. Here’s 
 
 * Recursion: The solution involves placing queens one row at a time and recursively trying to place a queen in the next row.
 * Backtracking: If a placement leads to a conflict (i.e., the newly placed queen threatens another queen), we backtrack by removing the queen and trying the next possible placement.
+
+## Code
+
+The implementation of N-Queens problem can be found in Pyhton language in 
+
+## Contributing
+
+If you have any suggessioins for improvements, feel free to open an issue.
